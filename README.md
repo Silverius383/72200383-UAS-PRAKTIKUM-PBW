@@ -7,6 +7,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+## Dibuat Oleh
+Silverius Stanic / 72200383
+
 ## Fitur Aplikasi
 Dalam aplikasi ini memiliki fitur fitur yaitu:
 - Login
