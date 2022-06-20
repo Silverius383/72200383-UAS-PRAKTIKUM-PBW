@@ -7,7 +7,7 @@
                 <i class="bi bi-person-square"></i> User
             </button>
             <div class="dropdown-menu dropdown-menu-right" aria-labelledby="dropdownMenuButton">
-                <a class="dropdown-item" href="#">Silverius Stanic</a>
+                <a class="dropdown-item" href="#">{{ Auth::user()->name ?? '' }}</a>
                 <a class="dropdown-item" href="/user">Data Pengguna</a>
                 <a class="dropdown-item" href="#">Keluar</a>
             </div>
