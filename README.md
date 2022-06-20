@@ -7,6 +7,15 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+## Fitur Aplikasi
+Dalam aplikasi ini memiliki fitur fitur yaitu:
+- Login
+- CRUD Mahasiswa
+- CRUD User
+- REST API
+
+## Link Untuk Mengakses Web Melalui Web Hosting
+https://uaspraktikumpbw72200383.000webhostapp.com/mahasiswa
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
