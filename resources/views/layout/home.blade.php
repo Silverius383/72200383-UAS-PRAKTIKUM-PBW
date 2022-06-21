@@ -9,7 +9,7 @@
             <div class="dropdown-menu dropdown-menu-right" aria-labelledby="dropdownMenuButton">
                 <a class="dropdown-item" href="#">{{ Auth::user()->name ?? '' }}</a>
                 <a class="dropdown-item" href="/user">Data Pengguna</a>
-                <a class="dropdown-item" href="#">Keluar</a>
+                <a class="dropdown-item" href="/login">Keluar</a>
             </div>
         </div>
     </div>
